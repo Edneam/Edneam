@@ -1,265 +1,62 @@
-<div align="center">
+# Chethas Dileep
 
-  <!-- Epic Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=DAWN%20FIGHTER&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Chethas%20Dileep%20|%20Penetration%20Tester&descSize=25&descAlignY=60" alt="Header" />
-  
-  <!-- Matrix-Style Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+OFFENSIVE+SECURITY+SPECIALIST+%F0%9F%94%A5;%E2%9A%A1+ETHICAL+HACKER+%7C+MALWARE+RESEARCHER+%E2%9A%A1;%F0%9F%92%BB+WINDOWS+API+WIZARD+%F0%9F%92%BB;%F0%9F%95%B6%EF%B8%8F+CYBERSECURITY+DEVELOPER+%F0%9F%95%B6%EF%B8%8F;%F0%9F%9B%A1%EF%B8%8F+BREAKING+SYSTEMS+TO+BUILD+BETTER+ONES+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-  </a>
+Penetration Tester & Security Developer based in Bengaluru, India.
 
-  <!-- Glowing Location Badge -->
-  <p>
-    <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3_BENGALURU,_INDIA-000000?style=for-the-badge&logo=google-maps&logoColor=00FF41&labelColor=1a1a1a" alt="Location" />
-  </p>
+I build offensive security tools, research post-exploitation techniques, and work on IoT attack surfaces. Currently pursuing BCA at Yenepoya University (2023–2026) while working hands-on in the field.
 
-  <!-- Enhanced Social Badges with Glow Effect -->
-  <p>
-    <a href="mailto:chethasdileep@icloud.com">
-      <img src="https://img.shields.io/badge/EMAIL-chethasdileep%40icloud.com-FF0080?style=for-the-badge&logo=icloud&logoColor=white&labelColor=000000" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/chethas-dileep-530722211">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-    </a>
-    <a href="http://www.edneam.site">
-      <img src="https://img.shields.io/badge/PORTFOLIO-EDNEAM.SITE-00FF41?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Portfolio" />
-    </a>
-  </p>
-  
-  <!-- Visitor Counter & Profile Views -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Dawn-Fighter&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Dawn-Fighter?color=00ff41&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
-  </p>
-
-  <!-- Epic Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider">
-
-</div>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire"> MISSION PROTOCOL <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire">
-
-<div align="center">
-
-> ### *"I EXPLORE ATTACK SURFACES ETHICALLY TO BUILD STRONGER DEFENSES"*
-
-</div>
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Hacker">
-
-### 🎯 WHO AM I?
-
-I am an **entry-level Penetration Tester** and **Cybersecurity Developer** who thrives in the shadows between attack and defense. My mission: craft offensive security tools, dissect malware architectures, and automate vulnerability detection with surgical precision.
-
-### ⚡ CURRENT OPERATIONS
-
-**🔭 Active Project:** Advanced Windows API Manipulation & Input Interception  
-**🧩 Research Focus:** Malware Development · Web Security · Automation  
-**🎯 Methodology:** Ethical-First | CLI-First | Modular Design  
-**🔥 Status:** Always Learning · Always Breaking · Always Building
-
-<br clear="right"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider">
-</div>
-
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35" alt="Tech"> ARSENAL & TECH STACK <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35" alt="Tech">
-
-<div align="center">
-
-### 💀 LANGUAGES & FRAMEWORKS 💀
-
-<img src="https://skillicons.dev/icons?i=python,bash,cpp,c,javascript,nodejs,html,css&theme=dark&perline=8" alt="Languages" />
-
-### 🔐 SECURITY TOOLKIT 🔐
-
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-    </td>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-    </td>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/WiFi_Security-00979D?style=for-the-badge&logo=wifi&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-### ⚙️ SYSTEMS & DEVOPS ⚙️
-
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,vscode,vim&theme=dark&perline=7" alt="Systems" />
-
-### 📚 PYTHON ARSENAL 📚
-
-**🌐 Network:** scapy · requests · socket · paramiko  
-**🕸️ Web:** beautifulsoup4 · selenium · scrapy  
-**💻 System:** pynput · pywin32 · ctypes · psutil  
-**🔐 Crypto:** cryptography · hashlib · pycrypto  
-**⚙️ Automation:** subprocess · threading · multiprocessing
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider">
-</div>
-
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" alt="Stats"> NETWORK TRAFFIC & ANALYTICS <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" alt="Stats">
-
-<div align="center">
-
-### 📊 GITHUB STATISTICS 📊
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dawn-Fighter&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawn-Fighter&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=ff0080&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### ⚡ CONTRIBUTION GRAPH ⚡
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawn-Fighter&custom_title=Dawn%20Fighter%27s%20Contribution%20Graph&bg_color=0d1117&color=00ff41&line=ff0080&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider">
-</div>
-
-
-<br>
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials"> CREDENTIALS & CERTIFICATIONS <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials">
-
-### 🛡️ Google Cybersecurity Certificate
-
-### ⚔️ Penetration Tester Certification
-
-### 🎓 BCA (Bachelor of Computer Applications)
-**Yenepoya University** | 2023–2026 | *In Progress*
-
-<br>
-
-<img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cert" />
-<img src="https://img.shields.io/badge/Certified-Penetration_Tester-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="PenTest Cert" />
-<img src="https://img.shields.io/badge/BCA-Yenepoya_University-00FF41?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider">
-</div>
-
-
-<br>
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" alt="Connect"> LET'S CONNECT <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" alt="Connect">
-
-### 🤝 OPEN FOR:
-
-✅ Security Research Collaborations  
-✅ CTF Team Invitations  
-✅ Bug Bounty Partnerships  
-✅ Open Source Security Projects  
-✅ Freelance Penetration Testing
-
-<br>
-
-<a href="mailto:chethasdileep@icloud.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/chethas-dileep-530722211">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="http://www.edneam.site">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/Dawn-Fighter">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br><br>
-
-### 💬 LATEST ACTIVITY 💬
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider">
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚠️ ETHICAL DISCLAIMER ⚠️
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Warning">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chethas--dileep-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chethas-dileep-530722211)
+[![Portfolio](https://img.shields.io/badge/Portfolio-edneam.site-FF4500?style=flat-square&logo=firefox)](http://www.edneam.site)
+[![Email](https://img.shields.io/badge/Email-chethasdileep%40icloud.com-grey?style=flat-square&logo=icloud)](mailto:chethasdileep@icloud.com)
 
 ---
 
-**RESPONSIBLE DISCLOSURE POLICY**
+## Focus Areas
 
-All security tools, exploits, and PoCs (including Keyloggers, Credential Extractors, and Network Sniffers) in my repositories are developed strictly for:
-
-✅ **Educational purposes**  
-✅ **Authorized security research**  
-✅ **Defensive security testing**  
-✅ **Ethical penetration testing with explicit permission**
+- **Web Application Security** — automated scanning, vulnerability discovery, report generation
+- **Post-Exploitation** — credential harvesting, browser decryption, data exfiltration simulation
+- **IoT & Embedded Security** — ESP32-based wireless attack tooling, BLE/Wi-Fi/RFID research
+- **Malware Research** — Windows API internals, keylogging, DPAPI decryption mechanics
 
 ---
 
-⛔ **UNAUTHORIZED ACCESS TO SYSTEMS IS ILLEGAL** ⛔
+## Projects
 
-I advocate for responsible disclosure and testing **ONLY** on systems where you have explicit written authorization.
-
-By using any code from this repository, you agree to use it ethically and legally. The author assumes **NO** responsibility for misuse or damage caused by these tools.
+| Project | Description | Stack |
+|---|---|---|
+| [WPT](https://github.com/Dawn-Fighter/WPT) | Modular web application security scanner — DNS, SSL, headers, WAF, API, JS, cookies | Python |
+| [BrowserVault](https://github.com/Dawn-Fighter/browser_vault) | Post-exploitation credential harvester simulating DPAPI browser decryption + exfil | Python |
+| [Keylogger](https://github.com/Dawn-Fighter/Keylogger) | Windows keystroke capture with base64 encoding and SMTP exfiltration | Python |
+| [Enigma](https://github.com/Akashcp111/Enigma) | CLI-based IoT security toolkit for ESP32 — Wi-Fi, BLE, RFID attack simulation | C++ |
 
 ---
 
-<br>
+## Stack
 
-<img src="https://img.shields.io/badge/⚡-HACK_THE_PLANET_ETHICALLY-00FF41?style=for-the-badge&labelColor=000000" alt="Hack Ethically" />
+**Languages:** Python · C++ · Bash · C · JavaScript  
+**Security Tools:** Burp Suite · Metasploit · Nmap · Wireshark · Scapy  
+**Python Libraries:** scapy · requests · pynput · pywin32 · ctypes · selenium · cryptography  
+**Systems:** Arch Linux (CachyOS/Hyprland) · Windows · Git · Docker
 
-</div>
+---
 
-<br>
+## Certifications
 
-<!-- Epic Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" alt="Footer" />
-</div>
+- Google Cybersecurity Certificate
+- Penetration Tester Certification
+- BCA — Yenepoya University *(in progress, 2023–2026)*
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Coding">
-</div>
+---
+
+## Open To
+
+Security research collaborations · CTF teams · Bug bounty partnerships · Open source security projects · Freelance penetration testing
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Dawn-Fighter&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+---
+
+> All tools and PoCs in this profile are built for authorized security research, red team labs, and educational use. Only test systems you own or have explicit written permission to audit.
