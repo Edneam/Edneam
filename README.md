@@ -1,48 +1,93 @@
-## Chethas Dileep
-
-`Penetration Tester · Security Developer · Bengaluru, IN`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chethas--dileep-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethas-dileep-530722211)
-[![Portfolio](https://img.shields.io/badge/edneam.site-ff0040?style=flat-square&logo=firefox&logoColor=white)](https://www.edneam.site)
-[![Email](https://img.shields.io/badge/chethasdileep@icloud.com-7d8590?style=flat-square&logo=maildotru&logoColor=white)](mailto:chethasdileep@icloud.com)
-
-I build offensive security tools, research post-exploitation techniques, and work on IoT attack surfaces. Currently BCA @ Yenepoya University (2023–2026).
-
-### Focus
-
-- Web application security — scanning, vulnerability discovery, automated reporting
-- Post-exploitation — credential harvesting, browser decryption, exfiltration
-- IoT & embedded — ESP32 tooling for Wi-Fi, BLE, RFID
-- Malware research — Windows API internals, keylogging, DPAPI
-
-### Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [WPT](https://github.com/Edneam/WPT) | Modular web app scanner — DNS, SSL, headers, WAF, API, JS, cookies | Python |
-| [BrowserVault](https://github.com/Edneam/browser_vault) | Post-exploit credential harvester — DPAPI decrypt + exfil sim | Python |
-| [Keylogger](https://github.com/Edneam/Keylogger) | Windows keystroke capture, base64 + SMTP exfil | Python |
-| [Enigma](https://github.com/Akashcp111/Enigma) | CLI IoT toolkit — ESP32 Wi-Fi / BLE / RFID attack sim | C++ |
-
-### Stack
-
-`Python` · `C++` · `C` · `Bash` · `JavaScript`  
-**Security:** Burp Suite · Metasploit · Nmap · Wireshark · Scapy  
-**Daily driver:** Arch Linux (CachyOS · Hyprland)
-
-### Certifications
-
-- Google Cybersecurity Certificate
-- Penetration Tester Certification
-- BCA — Yenepoya University *(in progress, 2023–2026)*
-
----
-
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Edneam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0040&icon_color=ff0040&text_color=c9d1d9&hide=contribs"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edneam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0040&text_color=c9d1d9&langs_count=6&hide=javascript,typescript,html,css,scss,dockerfile,vue,jupyter%20notebook,roff"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff0040&height=200&section=header&text=edneam&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Tester%20%C2%B7%20Security%20Researcher&descAlignY=60&descSize=18"/>
+
+<a href="https://github.com/Edneam"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=FF0040&center=true&vCenter=true&width=720&lines=%24+whoami;Penetration+Tester+%26+Security+Developer;Offensive+tooling+%C2%B7+post-exploitation+%C2%B7+IoT;Bengaluru%2C+IN"/></a>
+
 </div>
 
 ---
 
-> All tools and PoCs are built for authorized security research and education. Only test systems you own or have written permission to audit.
+```bash
+┌─[edneam@arch]─[~/profile]
+└──╼ $ cat whoami.txt
+```
+
+> Penetration Tester & Security Developer · Bengaluru, IN.  
+> Offensive tooling, post-exploitation research, IoT attack surfaces.  
+> BCA, Yenepoya University (2023–2026).
+
+<p>
+<a href="https://www.linkedin.com/in/chethas-dileep-530722211"><img src="https://img.shields.io/badge/LinkedIn-chethas--dileep-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.edneam.site"><img src="https://img.shields.io/badge/Portfolio-edneam.site-ff0040?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="mailto:chethasdileep@icloud.com"><img src="https://img.shields.io/badge/Email-chethasdileep-7d8590?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+</p>
+
+---
+
+### `> ./focus_areas.sh`
+
+```yaml
+web_app_security:    [scanning, vuln-discovery, reporting]
+post_exploitation:   [credential-harvesting, dpapi-decrypt, exfil]
+iot_embedded:        [esp32, ble, wifi, rfid]
+malware_research:    [win-api, keyloggers, dpapi]
+```
+
+### `> ls ~/projects/`
+
+| Repo | Description | Stack |
+|---|---|---|
+| [**WPT**](https://github.com/Edneam/WPT) | Modular web app scanner — DNS, SSL, headers, WAF, API, JS, cookies | `Python` |
+| [**BrowserVault**](https://github.com/Edneam/browser_vault) | Post-exploit credential harvester — DPAPI decrypt, exfil sim | `Python` |
+| [**Keylogger**](https://github.com/Edneam/Keylogger) | Windows keystroke capture, base64 + SMTP exfil | `Python` |
+| [**Enigma**](https://github.com/Akashcp111/Enigma) | CLI IoT toolkit — ESP32 Wi-Fi, BLE, RFID attack sim | `C++` |
+
+### `> cat stack.cfg`
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,js,linux,arch,docker,git,vim,vscode&theme=dark"/>
+</p>
+
+**Security:** Burp Suite · Metasploit · Nmap · Wireshark · Scapy  
+**Python:** scapy · requests · pynput · pywin32 · ctypes · selenium · cryptography  
+**Daily driver:** Arch Linux (CachyOS · Hyprland)
+
+### `> ./certs.sh --list`
+
+- `[✓]` Google Cybersecurity Certificate
+- `[✓]` Penetration Tester Certification
+- `[✓]` BCA, Yenepoya University (2023–2026)
+
+---
+
+### `> ./stats.sh`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Edneam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0040&icon_color=ff0040&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Edneam&theme=tokyonight&hide_border=true&background=0d1117&stroke=ff0040&ring=ff0040&fire=ff0040&currStreakLabel=ff0040"/>
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edneam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0040&text_color=c9d1d9&langs_count=8&hide=javascript,typescript,html,dockerfile,css,scss,vue,less"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Edneam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff0040&line=ff0040&point=ffffff&area=true"/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Edneam&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+### `> ./contact.sh`
+
+```
+[+] open:   red team labs · CTF teams · bug bounty · OSS security · pentesting
+[+] reach:  chethasdileep@icloud.com
+[+] sig:    0xedneam — only test what you own.
+```
+
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=Edneam&style=flat-square&color=ff0040&label=VISITORS)
+
+</div>
