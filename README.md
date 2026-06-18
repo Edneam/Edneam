@@ -20,7 +20,7 @@
 <p>
 <a href="https://www.linkedin.com/in/chethas-dileep-530722211"><img src="https://img.shields.io/badge/LinkedIn-chethas--dileep-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.edneam.site"><img src="https://img.shields.io/badge/Portfolio-edneam.site-ff0040?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="mailto:chethasdileep@icloud.com"><img src="https://img.shields.io/badge/Email-chethasdileep-7d8590?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<a href="mailto:chethasdileepz@gmail.com"><img src="https://img.shields.io/badge/Email-chethasdileepz-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -83,7 +83,7 @@ ai_security:         [evidence-grounded reporting, cvss-3.1]
 
 ```
 [+] open:   red team labs · CTF teams · bug bounty · OSS security · pentesting
-[+] reach:  chethasdileep@icloud.com
+[+] reach:  chethasdileepz@gmail.com
 [+] sig:    0xedneam — only test what you own.
 ```
 
